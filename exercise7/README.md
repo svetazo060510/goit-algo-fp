@@ -9,7 +9,7 @@
 1. **Запустіть симуляцію:**
 
     ```bash
-    python dice_simulation.py.py
+    python dice_simulation.py
     ```
 
 2. **Перегляньте порівняльну таблицю та графік розподілу ймовірностей.**

@@ -36,7 +36,7 @@
 1. **Запустіть скрипт:**
 
     ```bash
-    python final_project_task3.py
+    python dijkstra_algorithm.py
     ```
 
 2. **Аналіз результатів:**
